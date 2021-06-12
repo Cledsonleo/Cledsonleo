@@ -13,7 +13,10 @@ h1{
 }
 h2{
     font-size: 15px;
+    text-align: center;
     text-decoration-style: none;
+    text-orientation: center;
+    border-radius: 15px;
     margin: 0;
     background-color: rgb(12, 5, 70);
     color:mintcream;
@@ -23,23 +26,21 @@ h2{
     border: 5px solid rgb(14, 4, 100);
     border-radius: 15px;
 }
-.apresentacao *  {
+.apresentacao   {
 
-    font-size: 20px;
+    font-size: 15px;
     text-decoration-style: none;
     margin:auto;
     border-radius: 15px;
     color:rgb(14, 4, 100);
 }
-.caracteristica {
+.caracteristica  {
     
     font-size: 15px;
     margin:auto;
     border-radius: 15px;
     color:rgb(14, 4, 100);
 }
-
-
 
 body{
 
